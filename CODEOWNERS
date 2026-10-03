@@ -1,0 +1,6 @@
+# Policy owners. Changes to these paths need a Code Owner review.
+/.github/workflows/ @me2resh
+/.github/actions/ @me2resh
+/.apexyard/ @me2resh
+/CODEOWNERS @me2resh
+/.github/CODEOWNERS @me2resh

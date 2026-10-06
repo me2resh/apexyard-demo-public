@@ -8,3 +8,5 @@ Every pull request needs:
 - an approval on the latest commit from a listed approver who is not the author.
 
 The gate checks both and reads the team's signed rule pack from `.apexyard/`. It posts the `ApexYard Gate` check as the repository's own GitHub App.
+
+Dry run 1 (2026-10-06): an agent opened this PR through the ApexYard MCP server.
